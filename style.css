@@ -1,0 +1,25 @@
+body {
+    background: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 100px;
+    overflow: hidden;
+    color: #17bab9;
+}
+.Home-Title {
+    text-align: center;
+}
+.Form {
+    text-align: center;
+    margin-top: 50px;
+}
+.submit-Signin {
+    text-align: center;
+    margin-top: 20px;
+}
+.Signup {
+    text-align: center;
+    margin-top: 10px;
+    color: #17bab9;
+}
